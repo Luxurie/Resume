@@ -1,0 +1,66 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Prompt', sans-serif;
+}
+nav{
+    font-size: 20px;
+}
+.pf{
+    background-color: rgb(37, 37, 37);
+    padding-top: 40px;
+}
+h1{
+    margin-top: 150px;
+    color: white;
+}
+.abt{
+    color: black;
+    margin-top: 10px;
+    font-size: 40px;
+    font-weight: bold;
+}
+.edu{
+    color: black;
+    font-size: 40px;
+    font-weight: bold;
+}
+.pg{
+    border-radius: 50px 50px;
+    display: contents;
+}
+.hk{
+    color: black;
+    margin-top: 30px;
+    font-weight: bold;
+}
+.last{
+    font-size: 40px;
+    font-weight: bold;
+}
+.bdy{
+    margin-top: 30px;
+}
+.ty{
+    list-style: circle;
+    font-size: 24px;
+    margin-top: 20px;
+}
+.bdy2{
+    margin-top: 30px;
+}
+.bdy3{
+    margin-top: 30px;
+}
+.fter{
+    background-color: rgb(37, 37, 37);
+    padding: 100px;
+}
+.foot{
+    border-radius: 50%;
+}
+.fter{
+    color: white;
+    font-size: 18px;
+    text-align: center;
+}
